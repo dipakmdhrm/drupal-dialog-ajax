@@ -1,0 +1,13 @@
+{
+    "name": "dipakmdhrm/drupal-dialog-ajax",
+    "description": "CKEditor Plugin for Drupal AJAX Dialogs",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Dipak Yadav",
+            "email": "dipakmdhrm@gmail.com"
+        }
+    ],
+    "require": {}
+}
